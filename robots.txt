@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tralpatea.github.io/sitemap.tralpatea.gz
+Sitemap: https://tralpatea.github.io/app/sitemap.tralpatea.gz
+Sitemap: https://tralpatea.github.io/assets/sitemap.tralpatea.gz
+Sitemap: https://tralpatea.github.io/css/sitemap.tralpatea.gz
+Sitemap: https://tralpatea.github.io/data/sitemap.tralpatea.gz
+Sitemap: https://tralpatea.github.io/includes/sitemap.tralpatea.gz
+Sitemap: https://tralpatea.github.io/item/sitemap.tralpatea.gz
+Sitemap: https://tralpatea.github.io/src/sitemap.tralpatea.gz
